@@ -1,2 +1,2 @@
-# Violent-python-codes
-This repository consists of codes from the book Violent Python by TJ. O' Connor
+# My-python-codes
+This repository consists of all python codes that I m learning :) 
